@@ -1,4 +1,4 @@
-# Explicit and Implicit Graduated Optimization in Deep Neural Networks
+# Explicit and Implicit Graduated Optimization in Deep Neural Networks @AAAI-25
 Code for reproducing experiments in our paper.  
 Our experiments were based on the basic code for image classification.  
 nshb.py based on the implementation of "Understanding the Role of Momentum in Stochastic Gradient Methods" (NeurIPS2019).   
